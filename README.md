@@ -2,6 +2,6 @@
 
 <h2> Here are some projects I've been working on: </h2>
 
-- <b>[Power BI data visualization]()</b>
+- <b>[Power BI data visualization](https://github.com/eetujaa/vehicle_stock)</b>
 
 <a href="www.linkedin.com/in/eetu-jääsola-56aa0325b/"> LinkedIn </a>
